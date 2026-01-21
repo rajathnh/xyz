@@ -13,7 +13,7 @@ By analyzing **4.93 Million official Aadhaar records**, this system identifies s
 ---
 
 ## 🛠️ Technology Stack
-*   **Language:** Python 3.9+
+*   **Language:** Python 3.10
 *   **ETL & Processing:** `pandas`, `numpy`
 *   **Machine Learning:** `scikit-learn` (Isolation Forest)
 *   **Visualization:** `seaborn`, `matplotlib`
