@@ -23,3 +23,11 @@ download_progress.txt
 # --- IDE SETTINGS (Optional but good) ---
 .vscode/
 .idea/
+/Digital_Exclusion_Charts
+/District_Accessibility_Charts
+/District_Accessibility_Charts_Vertical
+/Final_Fraud_Detection_Graphs
+/Smart_Fraud_Graphs
+/State_Anomaly_Graphs
+/State_Trend_Graphs
+/Top_20_District_Fraud_Graphs
